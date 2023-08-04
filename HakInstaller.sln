@@ -1,5 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HakInstallerForm", "HakInstallerForm.csproj", "{09E68C4C-1EAD-406F-9C8C-27B3D52F5BE9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HakInstallerConsole", "HakInstallerConsole.csproj", "{C2B4588A-3CE9-4F86-BF3C-1D371C20D7A9}"
@@ -31,5 +33,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B26B2E17-FCEB-47E3-80DF-88915C315BCA}
 	EndGlobalSection
 EndGlobal
